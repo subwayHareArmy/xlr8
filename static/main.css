@@ -1,0 +1,174 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+* {
+  .border-radius(0) !important;
+}
+
+hr {
+    height: 1px;
+    color: #624b2f;
+    background-color: #624b2f;
+    border: none;
+}
+
+#field {
+    margin-bottom:20px;
+}
+
+#MapLocation {
+  height: 95vh;
+  width: 75vw;
+  left: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.center {
+  display: block;
+  margin-left: 70px;
+}
+
+.column {
+  float: left;
+  padding: 10px;
+    height: 95vh;
+}
+
+.left {
+  width: 75%;
+}
+
+.right {
+  width: 25%;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+fieldset
+{
+    border: solid 1px #000;
+    padding:10px;
+    display:block;
+    clear:both;
+    margin:5px 0px;
+}
+legend
+{
+    padding:0px 10px;
+    background:black;
+    color:#FFF;
+}
+input.add
+{
+    float:right;
+}
+input.fieldname
+{
+    float:left;
+    clear:left;
+    display:block;
+    margin:5px;
+}
+select.fieldtype
+{
+    float:left;
+    display:block;
+    margin:5px;
+}
+input.remove
+{
+    float:left;
+    display:block;
+    margin:5px;
+
+}
+
+.remove-me
+{
+    margin: auto;
+    vertical-align: middle;
+    text-align: center;
+    padding: 0px;
+    height: 20px;
+    width: 20px;
+    /*float:right;*/
+    /*display:block;*/
+    /*margin:5px;*/
+}
+
+#yourform label
+{
+    float:left;
+    clear:left;
+    display:block;
+    margin:5px;
+}
+#yourform input, #yourform textarea
+{
+    float:left;
+    display:block;
+    margin:5px;
+}
+
+.ml-0 {
+    margin-left: 0 !important;
+}
+
+.input {
+    width: 100px;
+    margin-left: 0 !important;
+}
+/*.example-container {*/
+  /*background: white;*/
+  /*width: 700px;*/
+  /*box-sizing: border-box;*/
+  /*position: absolute;*/
+  /*top: 50%;*/
+  /*left: 50%;*/
+  /*transform: translate(-50%, -50%);*/
+  /*font-family: helvetica;*/
+  /*font-size: 16px;*/
+  /*padding: 1.5em;*/
+  /*-webkit-box-shadow: 1px 5px 5px 0px rgba(0,0,0,0.15);*/
+  /*-moz-box-shadow: 1px 5px 5px 0px rgba(0,0,0,0.15);*/
+  /*box-shadow: 1px 5px 5px 0px rgba(0,0,0,0.15);*/
+  /*border-radius: 8px;*/
+/*}*/
+
+/*.example-container * {*/
+  /*box-sizing: inherit;*/
+  /*font-size: inherit;*/
+/*}*/
+
+/*.example-container .header {*/
+  /*margin: 1em 0;*/
+/*}*/
+
+/*.example-container #MapLocation {*/
+  /*margin-bottom: 0.75em;*/
+/*}*/
+
+/*.example-container input {*/
+  /*width: 100%;*/
+  /*margin: 0.5em 0;*/
+  /*padding: 0.5em;*/
+  /*border: 1px solid #569ae3;*/
+/*}*/
