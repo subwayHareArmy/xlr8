@@ -7,6 +7,8 @@
 
 Team Snowball's solution for the Mercedes-Benz Digital Challenge, India.
 
+## Project Description
+
 BCG reports that this number for Indians is between 1.3 and 1.6 times additional time in peak traffic amongst Asian cities. Today the average worker in urban India spends around 7% of their day in the office commute. In urban areas, traffic is the bottleneck for mobility, not the road infrastructure itself. Rapid urbanization is straining the transport network, and it necessitates a solution for the problem of congestion.
 
 Congestion is a popular mathematical metric used in the world of route planning as a measure of the flow of traffic in a given road network. The problem at hand is to increase the overall mobility of the vehicles in the road network, i.e. reduce the time taken by the cars to reach their destinations.
