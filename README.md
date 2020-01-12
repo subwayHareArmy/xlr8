@@ -38,23 +38,23 @@ Steps for setting up a local xlr8 Django project:
 
 6) Run the Django migrations to set up your models:
 
-'''javascript
+```
 python manage.py makemigrations
 python manage.py makemigrations polls
 python manage.py migrate
-'''
+```
 
 7) Start a local web server:
 
-'''javascript
+```
 python manage.py runserver
-'''
+```
 
 8) In your browser, go to http://localhost:8000:
 
-'''javascript
+```
 http://localhost:8000
-'''
+```
 
 9) Press Control+C to stop the local web server.
 
