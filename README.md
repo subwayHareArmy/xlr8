@@ -1,6 +1,6 @@
 # xlr8
 
-#### Team: Ayush Yembarwar, Nikhil Khandelwal, Disha Jain, Ajjinkya Vyas
+#### Team: Ayush Yembarwar, Nikhil Khandelwal, Disha Jain, Ajinkya Vyas
 #### College: BITS Pilani, Pilani Campus
 
 ##### Demo Link: [Python Anywhere](https://xlr8.pythonanywhere.com)
@@ -63,5 +63,7 @@ http://localhost:8000
 11) Hover on the red marker of any location on the map to know its location index and enter this index in the Source/Destination field in the right panel.
 
 12) The most efficient paths from source to the destination for each of the entered vehicle would be displayed on the map on pressing Submit. (This may take some time for heavy inputs). The paths are decided so as to minimize the total congestion on the road network.
+
+13) To resolve confusion between paths, click on a destination 'Flag' marker on the app.
 
 Please Note: After each run of the application, please refresh the webpage before using it again. Using it multiple times without refreshing may result in the results from previous iterations overlapping.
