@@ -64,6 +64,6 @@ http://localhost:8000
 
 12) The most efficient paths from source to the destination for each of the entered vehicle would be displayed on the map on pressing Submit. (This may take some time for heavy inputs). The paths are decided so as to minimize the total congestion on the road network.
 
-13) To resolve confusion between paths, click on a destination 'Flag' marker on the app.
+13) To resolve confusion between paths, click on a destination 'Flag' marker on the app. Clicking once will hide other paths. To redisplay all paths, click on the 'Flag' marker again.
 
 Please Note: After each run of the application, please refresh the webpage before using it again. Using it multiple times without refreshing may result in the results from previous iterations overlapping.
