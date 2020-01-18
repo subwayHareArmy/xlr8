@@ -3,8 +3,6 @@
 #### Team: Ayush Yembarwar, Nikhil Khandelwal, Disha Jain, Ajinkya Vyas
 #### College: BITS Pilani, Pilani Campus
 
-##### Demo Link: [Python Anywhere](https://xlr8.pythonanywhere.com)
-
 Team Snowball's solution for the Mercedes-Benz Digital Challenge, India.
 
 ## Project Description
